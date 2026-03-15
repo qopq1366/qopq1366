@@ -7,7 +7,7 @@
 
 ### 🚀 Мои проекты и ресурсы
 * 🏠 **Агрегатор VPN:** [allvpn.x10.mx](https://allvpn.x10.mx/)
-* 🛡 **Обход (БС/ЧС):** [Обход (БС/ЧС)](http://allvpn.x10.mx/sub.php)
+* 🛡 **Обход (БС/ЧС):** [http://allvpn.x10.mx/sub.php](http://allvpn.x10.mx/sub.php)
 * 🎫 **Поддержка:** [@allvpnlistsupportbot](https://t.me/allvpnlistsupportbot)
 * 🌐 **Авто-подписка (Vless):** [autosub-config.vercel.app/sub.txt](https://autosub-config.vercel.app/sub.txt)
 ---
