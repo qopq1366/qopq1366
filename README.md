@@ -22,4 +22,4 @@
 ---
 
 ### Связь со мной
-[![Telegram Channel](https://img.shields.io/badge/AllVpn_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/allvpntg)
+[![Telegram](https://img.shields.io/badge/Telegram?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FawlokBot)
